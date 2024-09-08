@@ -10,21 +10,17 @@ const Hero = () => {
         <div className="hero-info pb-5 md:pb-0">
           <h1 className="text-4xl lg:text-6xl">
             Hi, <br />I am <span className="text-accent">R</span>ima <br />
-            Frontend Developer
+            full stack Developer
           </h1>
 
-          <p className="py-5">I am proficient in JavaScript, React.js and Tailwind CSS</p>
+          <p className="py-5">I am proficient in laravel and JavaScript, React.js and Tailwind CSS</p>
 
           <div className="flex py-5 ">
-            <a href="https://twitter.com/CoderAmrin" className="pr-4 inline-block text-accent hover:text-white">
-              {" "}
-              <AiOutlineTwitter size={40} />{" "}
-            </a>
-            <a href="https://www.youtube.com/@coderamrin" className="pr-4 inline-block text-accent hover:text-white">
+            {/* <a href="https://www.youtube.com/@coderamrin" className="pr-4 inline-block text-accent hover:text-white">
               {" "}
               <AiOutlineYoutube size={40} />{" "}
-            </a>
-            <a href="https://www.facebook.com/CoderAmrin/" className="pr-4 inline-block text-accent hover:text-white">
+            </a> */}
+            <a href="https://www.facebook.com/share/UV4Z2g69MgkYBz7x/?mibextid=qi2Omg" className="pr-4 inline-block text-accent hover:text-white">
               {" "}
               <AiOutlineFacebook size={40} />{" "}
             </a>
